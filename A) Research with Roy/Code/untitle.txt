@@ -1,0 +1,4 @@
+|   ra     |   dec    |  major | ratio |
+|   double |   double | double | double|
+ 185.500000 15.500000    1000.   0.25
+ 186.000000 15.000000     500.   0.50
