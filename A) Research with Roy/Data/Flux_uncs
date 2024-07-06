@@ -1,0 +1,1 @@
+band_id,Region,X,Y,Radius,Annulus_Inner_Radius,Annulus_Outer_Radius,Net Flux (Jy),Flux Uncertainty,Flag,aperture_sum,tot_bg,Target Counts,Target Flux,Annulus Counts,Annulus Flux,Image Data Shape,Mask Shape,Mask Type,Non-zero mask elements,Flux Conv,MzpInstr,Offset in Arcseconds,Exists?,Point Source Position,Target Error,Annulus Error,Overlap Error (in counts),Overlap Counts
