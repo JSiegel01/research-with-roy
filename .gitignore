@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 A) Research with Roy/Data/Hugefiles/Source_Flux_All_Modified_5.csv
 
-RWR/RWR1/Data/Hugefiles/Source_Flux_All_Modified_5.csv
+RWR1/Data/Hugefiles/Source_Flux_All_Modified_5.csv
 RWR1/Data/Hugefiles
 tractorvs
 welcome-to-docker
