@@ -5,3 +5,6 @@ image downloads.ipynb has some useful stuff in there, it is the spinoff of Step 
 
 step 2 is a mess, mainly stuff on trying to query the WISE databse.
 
+
+
+forced_phot_one has the SED in it as well.
