@@ -1,6 +1,8 @@
 # research-with-roy
 
 *Forced_Phot_All*
+RIGHT NOW THE NET_FLUX IS NOT THE RAW FLUX. IT IS THE FLUX DENSITY. SO THE COLUMN THAT SAYS FLUX DENSITY IS NOT USABLE. ASSUME THAT FLUX DENSITY IS THE "NET_FLUX" COLUMN
+
 - This is the code for doing forced aperture photometry on all of the WISE images. Make sure it is printing nothing but the dataframe and the names of the galaxies and it will only take 1 minute to run through. 
 - It has color-color and color-luminosity diagrams as well.
 - breif overview of what it does:
